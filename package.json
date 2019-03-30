@@ -1,0 +1,27 @@
+{
+  "name": "koa-example",
+  "version": "1.0.0",
+  "description": "serverlessplus koa example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serverlessplus/koa-example.git"
+  },
+  "keywords": [
+    "serverlessplus",
+    "koa"
+  ],
+  "author": "chenhengqi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/serverlessplus/koa-example/issues"
+  },
+  "homepage": "https://github.com/serverlessplus/koa-example#readme",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "serverlessplus": "0.0.3"
+  }
+}
